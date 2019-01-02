@@ -27,6 +27,7 @@ class Example(Frame):
         self.colorAllChunk = True
         self.history = deque(maxlen=20)
         self.currentContent = deque(maxlen=1)
+
         self.pressCommand = {'a':u"参与者",
                              'b':u"动作",
                              'c':u"对象",
@@ -51,9 +52,19 @@ class Example(Frame):
                              'w':u"Pro-投资方",
                              'x':u"Pro-承建方",
                              'y':u"Pro-开工时间",
-                             'z':u"Pro-完成时间"
-                                }
-        self.allKey = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+                             'z':u"Pro-完成时间",
+                             '0':u"测试0",
+                             '1': u"测试1",
+                             '2': u"测试2",
+                             '3': u"测试3",
+                             '4': u"测试4",
+                             '5': u"测试5",
+                             '6': u"测试6",
+                             '7': u"测试7",
+                             '8': u"测试8",
+                             '9': u"测试9"
+                            }
+        self.allKey = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
         self.numberKey = "0123456789"
         self.controlCommand = {'q':"unTag", 'ctrl+z':'undo'}
         self.labelEntryList = []
@@ -170,7 +181,11 @@ class Example(Frame):
 
         for idx in range(0, len(self.numberKey)):
             press_key = self.numberKey[idx]
-            self.text.bind(press_key, self.numberModel)
+            self.text.bind(press_key, self.textReturnEnter)
+            simplePressKey = "<KeyRelease-" + press_key + ">"
+            self.text.bind(simplePressKey, self.deleteTextInput)
+            # if self.OS != "windows":
+            # self.text.bind(press_key, self.numberModel)
 
 
 

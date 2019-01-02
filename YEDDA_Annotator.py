@@ -53,7 +53,7 @@ class Example(Frame):
             self.textRow = 20
         self.textColumn = 5
         self.tagScheme = "BMES"
-        self.onlyNP = False  ## for exporting sequence 
+        self.onlyNP = False  ## for exporting sequence
         self.keepRecommend = True
 
 
@@ -63,7 +63,7 @@ class Example(Frame):
         if your data is Chinese without segmentation, you need to set this flag as False
         '''
         self.seged = True  ## False for non-segmentated Chinese, True for English or Segmented Chinese
-        self.configFile = "configs/default.config"
+        self.configFile = "config"
         self.entityRe = r'\[\@.*?\#.*?\*\](?!\#)'
         self.insideNestEntityRe = r'\[\@\[\@(?!\[\@).*?\#.*?\*\]\#'
         self.recommendRe = r'\[\$.*?\#.*?\*\](?!\#)'
@@ -460,7 +460,7 @@ class Example(Frame):
                     followHalf_content = self.text.get(cursor_index, "end-1c").encode('utf-8')
                     if command in self.pressCommand:
                         if len(selected_string) > 0:
-                            # print "insert index: ", self.text.index(INSERT) 
+                            # print "insert index: ", self.text.index(INSERT)
                             followHalf_content, newcursor_index = self.replaceString(followHalf_content, selected_string, command, newcursor_index)
                             content = self.addRecommendContent(aboveHalf_content, followHalf_content, self.recommendFlag)
                             # content = aboveHalf_content + followHalf_content
@@ -699,7 +699,8 @@ class Example(Frame):
     ## show shortcut map
     def setMapShow(self):
         if os.path.isfile(self.configFile):
-            with open (self.configFile, 'rb') as fp:
+            with open(self.configFile, 'r') as fp:
+                # print(fp.read())
                 self.pressCommand = pickle.load(fp)
         hight = len(self.pressCommand)
         width = 2
@@ -933,7 +934,6 @@ def decompositCommand(command_string):
             num_select =''
     # print command_list
     return command_list
-
 
 
 def main():

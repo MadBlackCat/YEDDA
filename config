@@ -1,0 +1,133 @@
+(dp0
+S'a'
+p1
+S'First Party Collection'
+p2
+sS'c'
+p3
+S'Third Party Sharing'
+p4
+sS'b'
+p5
+S'First Party Use'
+p6
+sS'e'
+p7
+S'User Choice/Control'
+p8
+sS'd'
+p9
+S'Third Party Collection'
+p10
+sS'g'
+p11
+S'User Access, Edit and Deletion'
+p12
+sS'f'
+p13
+S'Data Retention'
+p14
+sS'i'
+p15
+S'Data Security'
+p16
+sS'h'
+p17
+S'Policy Change'
+p18
+sS'k'
+p19
+S'Do Not Track'
+p20
+sS'j'
+p21
+S'International and Specific Audience'
+p22
+sS'm'
+p23
+S'Call Log'
+p24
+sS'l'
+p25
+S'Camera'
+p26
+sS'o'
+p27
+S'Location'
+p28
+sS'n'
+p29
+S'Microphone'
+p30
+sS'p'
+p31
+S'Phone'
+p32
+sS's'
+p33
+S'Sensors'
+p34
+sS'r'
+p35
+S'SMS or MMS'
+p36
+sS'u'
+p37
+S'Storage'
+p38
+sS't'
+p39
+S'Network'
+p40
+sS'w'
+p41
+S'Health'
+p42
+sS'v'
+p43
+S'Financial'
+p44
+sS'y'
+p45
+S'Demographic'
+p46
+sS'x'
+p47
+S'Personal Identifier'
+p48
+sS'z'
+p49
+S'User Online Activitie'
+p50
+sS'0'
+p51
+S'User Profile'
+p52
+sS'1'
+p53
+S'Social Media Data'
+p54
+sS'2'
+p55
+S'IP Address'
+sS'3'
+p56
+S'Cookies and Tracking Elements'
+p57
+sS'4'
+p58
+S'Survey Data'
+p59
+sS'5'
+p60
+S'Generic Personal Information'
+p61
+sS'6'
+p62
+S'Other'
+p63
+sS'7'
+p64
+S'Unspecified'
+p65
+s.
