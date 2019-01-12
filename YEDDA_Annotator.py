@@ -28,7 +28,7 @@ class Example(Frame):
         self.fileName = ""
         self.debug = False
         self.colorAllChunk = True
-        self.recommendFlag = True
+        self.recommendFlag = False
         self.history = deque(maxlen=20)
         self.currentContent = deque(maxlen=1)
         self.pressCommand = {'a':"Artifical",
