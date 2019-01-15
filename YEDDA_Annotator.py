@@ -41,7 +41,7 @@ class Example(Frame):
                              'h':"Other"
                              }
         self.allKey = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        self.controlCommand = {'q':"unTag", 'ctrl+z':'undo'}
+        self.controlCommand = {'ctrl+q':"unTag", 'ctrl+z':'undo'}
         self.labelEntryList = []
         self.shortcutLabelList = []
         self.configListLabel = None
@@ -364,8 +364,8 @@ class Example(Frame):
                 cursor_index = cursor_index.split('.')[0]+"."+str(int(cursor_index.split('.')[1])-len(new_string_list[1])+4)
             afterEntity_content = followHalf_content[len(selected_string):]
 
-            if command == "q":
-                print 'q: remove entity label'
+            if command == "ctrl+q":
+                print 'ctrl+q: remove entity label'
             else:
                 if len(selected_string) > 0:
                     entity_content, cursor_index = self.replaceString(selected_string, selected_string, command, cursor_index)
@@ -408,8 +408,8 @@ class Example(Frame):
                 selected_string = new_string
                 entity_content = selected_string
                 cursor_index = line_id + '.'+ str(int(matched_span[1])-(len(new_string_list[1])+4))
-                if command == "q":
-                    print 'q: remove entity label'
+                if command == "ctrl+q":
+                    print 'ctrl+q: remove entity label'
                 elif command == 'y':
                     print "y: comfirm recommend label"
                     old_key = self.pressCommand.keys()[self.pressCommand.values().index(old_entity_type)]

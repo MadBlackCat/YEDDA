@@ -1,0 +1,383 @@
+
+BOO! U.S. App Privacy Policy
+Last Updated: January 25, 2018
+
+          ATTENTION: PLEASE READ CAREFULLY THIS BOO! – GROUP TEXT & VIDEO CHAT MOBILE APPLICATION, BOOMOJI AND OTHERS THAT LINK TO THIS PRIVACY POLICY (“PRIVACY POLICY”), WHICH IS PART OF THE BOO! TERMS OF USE, BEFORE YOU ACCESS, DOWNLOAD, OR OTHERWISE USE THE SERVICE.
+        
+
+
+            ACCESSING, DOWNLOADING OR OTHERWISE USING THE SERVICE INDICATES THAT YOU ACCEPT AND AGREE TO BE BOUND BY THIS PRIVACY POLICY IN FULL.
+            IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT ACCESS, DOWNLOAD OR OTHERWISE USE THE SERVICE.
+          
+          You acknowledge 
+          (a) that You have read and understood this Privacy Policy; and 
+          (b) this Privacy Policy shall have the same force and effect as a signed agreement.
+        
+1. Introduction
+
+          This Privacy Policy governs information we receive from You or about You and explains how we may collect, use, and, in some instances, share this information when You use or access the Service.
+          Other websites which are linked to/from or are associated with the Service, like https://boo.chat/, may have different policies;
+          please review the privacy policies on those websites for details.
+        
+
+          Unless explicitly stated otherwise, any new features that augment or enhance the current Service will be subject to this Privacy Policy.
+        
+
+          This Privacy Policy is part of Our Terms of Use https://boo.chat/terms.htm.
+          Any terms defined in the Terms of Use shall have the same meaning in this Privacy Policy.
+        
+
+          Please review the Privacy Policy each time You use the Service.
+          If we materially change this Privacy Policy, we will update this page to reflect any changes to this Privacy Policy and notify You by showing it to You again through an in-app notification.
+          BY USING THE SERVICE, YOU AGREE TO BE BOUND BY THE MOST RECENT VERSION OF THE PRIVACY POLICY.
+        
+2. Information We Collect
+
+          We collect information from You when You use the Service, contact us, or interact with us in the manner described below.
+          We may collect personal information that You may provide.
+          If You submit any personal information in connection with using the Service,
+          You represent that You have the authority to do so and to permit BOO! to use the information in accordance with the Privacy Policy.
+        
+A. Information You Voluntarily Provide Us
+
+          When You sign up to use the Service, We collect information that you provide including Your:
+        
+
+Age
+School name
+Grade in school
+Gender
+Mobile phone number
+Permission to access services on your mobile phone including photo and video
+Account name
+Profile picture, and
+Email address
+
+
+          Apart from the information You provide as described above, the Service will also ask You to provide the following Permissions on Your mobile phone prior to using the Service:
+        
+
+
+
+Permission Categories
+Permission subcategories, the Ability to:
+
+
+Device & app history
+
+
+Retrieve running apps
+
+
+
+
+Contacts
+
+
+Find accounts on the device
+Read your contacts
+Modify your contacts
+
+
+
+
+Location
+
+
+Precise location (GPS and network based)
+
+
+
+
+SMS
+
+
+Send SMS messages
+
+
+
+
+Phone
+
+
+Read phone status and identity
+
+
+
+
+Photos/Media/File
+
+
+Access USB Storage file system
+Read the contents of your USB Storage
+Modify or delete the contents of your USB Storage
+
+
+
+
+Camera
+
+
+Take pictures and videos
+
+
+
+
+Microphone
+
+
+Record audio
+
+
+
+
+WiFi Connection Information
+
+
+View WiFi connections
+
+
+
+
+Device ID & Call information
+
+
+Read phone status and identity
+
+
+
+
+Other
+
+
+Read Home settings and shortcuts
+Receive data from Internet
+View Network connections
+Create accounts and set passwords
+Pair with Bluetooth devices
+Send sticky broadcasts
+Connect and disconnect from WiFi
+Full network access
+Change or audio settings
+Run at startup
+Uses accounts on the device
+Control vibration
+Prevent device from sleeping
+Modify system settings
+
+
+
+
+
+
+          We also collect any information you provide in your use of the Service.
+        
+B. Information We Collect Automatically When You Use the Service
+
+          When You access and use the Service, we automatically collect information regarding You and Your device based on the permissions we request as described above. 
+        
+C. Information We Collect from Other Sources
+
+          We may collect information about You from third party sources including others users of the Service and the App Store and Google Play platform providers.
+        
+
+          BOO! may also collect information about You as permitted or required by law.
+          We may combine all of the information we collect from You and use it in the manner described in this Privacy Policy.
+        
+3. How We Use Your Information
+We use the information that we collect for several purposes including:
+
+
+            The purposes for which You provided it, including chat, video sharing, photo sharing, playing games, etc. with other users;
+          
+
+            To process and respond to Your inquiries;
+          
+
+            For fulfillment of orders and requests, including in-app purchases;
+          
+
+            To identify You as a user of the Service;
+          
+
+            To send You information about Your relationship with us;
+          
+
+            To enable You to provide comments and participate in questions and answers;
+          
+
+            To contact You with information, including promotional information, that we believe will be of interest to You;
+          
+
+            To create anonymous data and to compile aggregate data, which we may use for any purpose, including for internal and external business purposes;
+          
+
+            To allow us to personalize and enhance Your experience using the Service;
+          
+
+            To generate and review reports and data about our user base and Service usage patterns;
+          
+
+            To analyze the accuracy, effectiveness, usability or popularity of the Service;
+          
+
+            To improve the Service or develop new products and services;
+          
+
+            To prevent fraudulent transactions and prevent misuse of the Service, monitor against theft and otherwise protect our users and our business;
+          
+
+            To administer and troubleshoot the Service; and
+          
+
+            As otherwise stated in this Privacy Policy or the Terms or as permitted or required by law.
+          
+
+
+          Please note that You may choose not to allow us to use Your personal information for certain purposes (such as to email You promotional information) as described in the Your Choices Regarding Your Information section below.
+        
+4. How Your Information Is Disclosed
+
+          Information may be disclosed to third parties in accordance with our Privacy Policy.  You may choose not to share certain information as described in the Your Choices Regarding Your Information below
+        
+A. Other Users
+
+          When using the Service, some of Your personal information (such as Your account name, Your profile picture, and information You choose to share) may be shared with other users.
+          Some of Your personal information will be searchable by other users.
+        
+B. Third Party Service Providers and Business Partners
+
+          We may use third party service providers and business partners to perform functions in connection with the Service,
+          such as the app platforms that assist in numerous aspects of offering the Service including with in-app purchases,
+          companies that analyze how the Service is being used to help us improve the Service, companies that offer software maintenance, servicing, and upgrading, hosting, data migration,
+          storing data, and as otherwise described in this Privacy Policy.
+          We may share Your personal information with these service providers and business partners.
+          We also may share users’ personal information with advertisers for their direct marketing and promotional purposes and so they can provide services to You.
+        
+C. Business Changes
+
+          If we become involved in a merger, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution,
+          or other transaction or if the ownership of all or substantially all of our business otherwise changes,
+          we may transfer Your information to a third party or parties in connection therewith.
+        
+D. Affiliates
+
+          We may also share Your information with our affiliates for purposes consistent with this Privacy Policy.
+          Our affiliates will be required to maintain that information in accordance with this Privacy Policy.
+        
+E. Investigations and Law
+
+          We may disclose information about You to third parties if we believe that such disclosure is necessary to: 
+        
+
+
+            Investigate, prevent, or take action regarding suspected illegal activities, suspected fraud, the rights, reputation, safety, and property of us, users or others, or violations of our policies or other agreements with us;
+          
+
+            Comply with the law or guidance and cooperate with government or law enforcement officials or private parties;
+          
+
+            Respond to claims and legal process (for example subpoenas); and/or
+          
+
+            Protect against legal liability.
+          
+
+F. Aggregated Information
+
+          We may share aggregated information relating to users of the Service with affiliated or unaffiliated third parties.
+          This aggregated information does not contain personal information about any user.
+        
+5. Security
+
+          We implement a variety of security measures to protect the safety of Your personal information when You enter, submit, or access Your personal information.
+        
+
+          While we take reasonable measures to protect the information You submit via the Service against loss, theft and unauthorized use, disclosure, or modification, we cannot guarantee its absolute security.
+          No Internet, email, or mobile application transmission is ever fully secure or error free.
+          Email or other messages sent through the Service may not be secure.
+          You should use caution whenever submitting information through the Service and take special care in deciding with which information You provide us.
+          If You have any questions about security on our Service, please email us at support@boo.chat.
+        
+
+          We cannot guarantee that transmissions of Your personal information will be fully secure and that third parties will never be able to defeat our security measures or the security measures of our partners.
+          WE ASSUME NO LIABILITY FOR DISCLOSURE OF YOUR INFORMATION DUE TO TRANSMISSION ERRORS, THIRD-PARTY ACCESS OR CAUSES BEYOND OUR CONTROL.
+        
+
+          Any information collected through the Service is stored and processed in the United States.
+          If You use our Website outside of the United States, You consent to have Your data transferred to the United States.
+        
+6. Data Retention Policy
+
+          We will retain Your information for as long as You use the Service and for a reasonable time thereafter.
+          Please note that some or all of the information we have collected may be required in order for the Service to function properly.
+        
+7. Your Choices Regarding Your Information
+
+          You have choices regarding how we use Your information:
+        
+A. Changing Your Information
+
+          You may use the functionality of the Service to update information collected by us on the Service.
+          You may also ask to review, update, or have deleted any personal information collected by Us on the Service.
+          To do so, please send us an email asking to review or update Your personal information, or to have us delete Your personal information at support@boo.chat.
+          However, we reserve the right to retain personal information as necessary to comply with law.
+        
+B. Email Communications
+
+          You can make changes regarding receiving email communication from us by contacting us at support@boo.chat.
+        
+8. BOO!'s Do Not Track Policy
+
+          Your browser may offer a “Do Not Track” option, which allows You to signal to operators of websites and mobile applications and services (including behavioral advertising services) that You do not wish such operators to track certain of Your online activities over time and/or across different websites and mobile applications and services.
+          The Service does not support Do Not Track requests at this time, which means that we collect information about Your online activity both while You are using the Service and after You leave the Service.
+        
+9. Children
+
+          The Service is not intended for children under 13 years of age.
+          We do not knowingly collect personal information from an individual under age 13.
+          If You are under the age of 13, please do not submit any personal information through the Service.
+          If You have reason to believe that we may have accidentally received personal information from an individual under age 13, please contact us immediately at support@boo.chat.
+        
+
+          BOO! respects the rights afforded to minors under the age of 18 under the Privacy Rights for California Minors in the Digital World Law, codified in the Business and Professions Code of California, Sections 22580-22582.
+          We do not advertise or market any of the products or services identified in Section 22580(i)(1)-(19).
+          Further, according to Section 22581, minors using the Service can have content they uploaded removed subject to certain exceptions.
+          Removal may not ensure complete or comprehensive removal of the content or information posted on the Service by You.
+          We will remove information posted by a user under the age of 18 unless:  the information was posted, stored, republished or reposted by a third party;
+          state or federal law requires BOO! to maintain the information;
+          we anonymize the posted content or information;
+          or the minor received compensation or other consideration for providing the content.
+          If You wish to request removal of information You posted on the Service, please contact us at support@boo.chat.
+        
+10. Terms of Use
+
+          Please also visit the BOO! Terms of Use at https://boo.chat/terms.htm, which state the terms, disclaimers, and limitations of liability governing Your use of the Service.
+        
+11. Changes to the Privacy Policy
+
+          We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice.
+          Please review this Privacy Policy periodically, and especially before You provide any information.
+          Your continued use of the Service or provision of personal information after any modifications to this Privacy Policy constitutes Your acceptance of those changes.
+          This Privacy Policy was made effective on the date indicated above.
+        
+12. Your California Privacy Rights
+
+          Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship,
+          certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year.
+          You may make one request each year by emailing us at support@boo.chat. 
+        
+13. How to Contact Us
+
+          If You have any questions about this Privacy Policy or our use of Your personal information,
+          please contact us at hello@boo.chat or 
+        
+
+          Room 10201, Unit 1,
+          Building 8,
+          No. 36 High-tech Road,
+          High-tech Zone
+          Xi'an, China
+          Attention: Joe Zhou
+          Telephone: +86 18066746761
+        

@@ -1,0 +1,118 @@
+This Mobile Apps Policy, together with the NBCUniversal Privacy Policy, explains how NBCUniversal may collect and process information from and about you when you use our mobile applications or access the NBCUniversal Services from your mobile device (“Mobile Apps”).  Additional specific notices and terms will be applied within specific Mobile Apps where appropriate and/or required by law.
+If you are using the NBCUniversal Services while in the European Economic Area, the United Kingdom, or Switzerland, this policy does not apply.  Please refer to the NBCUniversal European Privacy Policy.
+
+INFORMATION WE COLLECT AND HOW USED
+HOW WE SHARE PERSONAL INFORMATION
+AUTOMATIC DATA COLLECTION AND ADVERTISING
+OPT-OUTS
+ACCESS
+CONTACT US
+
+1. INFORMATION WE COLLECT AND HOW IT IS USED 
+We have set out the types of information we collect and how that information is used below.  The information collected will depend on the functionality of the specific Mobile App you are using and additional information may be collected through the Mobile App as specified in the Mobile App. 
+
+
+
+
+Type of information
+
+
+How is it used?
+
+
+
+
+Unique Device Identifiers
+
+
+A unique device identifier (or “Unique Device ID”) is an alpha-numeric string of data that can either be part of the hardware of your device or automatically assigned to your device by the operating system or software. We may associate Unique Device IDs with other information and will treat the combined information as personally identifiable information in accordance with this policy for as long as it is combined.  Unique Device IDs may be used to enable certain features and also to personalize and serve advertising based on your interests and usage of other apps.  See “Opt-Outs” in Section 4, below, for information regarding how to limit the use of Unique Device IDs.
+
+
+
+
+Location information
+
+
+When you use one of our location-enabled services, we may collect and process information about your actual location. Some Mobile Apps and other online services require your location information for one or more features to work.  Where a Mobile App collects precise information about the location of your device it will be used to provide location services for the Mobile App, and for such things as tagging or check-in.  Please see inside the Mobile App for information about how to opt out of providing location information or contact  privacy@nbcuni.com. 
+
+
+
+
+Log Information
+
+
+When you use the Mobile App or view content on our websites on a mobile device, we may automatically collect and store certain information in server logs including but not limited to internet protocol (IP) addresses, port numbers, device model and make information, internet service provider (ISP), clickstream data, battery and memory allocation, boot time, browser type and language, viewed and exit pages and date or time stamps We may use log information as specifically indicated in the Mobile App, as well as to assess the performance of our Mobile App or other online services, distinguish your device from others, prevent fraud, provide technical support and/or respond to your needs.  We may also use this information to personalize the services offered by us or our affiliates, including providing personalized advertising on some Mobile Apps.
+
+
+
+
+Unique Mobile App numbers
+
+
+When you install or uninstall a Mobile App containing a unique Mobile App number, or when such a service searches for automatic updates, that number may be sent to us. Information about your installation, for example, the type of operating system, may also be sent to us. We may use the Unique Mobile App numbers as specifically indicated in the Mobile App, as well as to assess the performance of our Mobile App or other online services, prevent fraud, provide technical support, conduct research, generate analytics, address internal online services operations, and/or respond to your needs.  We may also use this information to personalize the services offered by us or our affiliates, including providing personalized advertising on some Mobile Apps.
+
+
+
+
+Information you submit through the Mobile App
+
+
+When you register with us and use a Mobile App, you may provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use Mobile Apps from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Mobile App; and (e) information you enter into our system when using the Mobile App, such as contact information. We may use the information you provided us, in accordance with applicable laws, to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+
+
+
+Information we may collect through the Mobile App 
+
+
+Subject to the functionality of a particular Mobile App, we may also collect additional information through your use of a Mobile App including (a) your mobile phone number; (b) any name you might have assigned to your device; (c) your contacts/address book; (d) your web browsing history; (e) information concerning other apps you have downloaded or used; (f) other stored information on your device such as videos, photos, photo location, audio, calendar, passwords, dialer, microphone and/or social network credentials. We may use information collected through the Mobile App as specifically indicated in the Mobile App, as well as to assess the performance of our Mobile App or other online services, prevent fraud, provide technical support, conduct research, generate analytics, address internal online services operations, and/or respond to your needs.  We may also use this information to personalize the services offered by us or our affiliates, including providing personalized advertising on some Mobile Apps.
+
+
+
+
+2. HOW WE SHARE PERSONAL INFORMATION 
+ 
+Subject to applicable laws and the terms of our Privacy Policy, we may share your usage and personal information with analytics providers, digital and video measurement services such as Nielsen, operating systems, carriers and platform providers and/or other mobile apps either operated by us or third parties, as well as any other entities described in any particular Mobile App.
+ 
+3. AUTOMATIC DATA COLLECTION AND ADVERTISING 
+ 
+Some of our Mobile Apps are supported via advertising, and use third parties to collect data and personalize ads based on your interests and your usage of various apps, web browsing, and other data. Interest-based data may consist of, among other things, Unique Device IDs, log data, or similar information, paired with data regarding which apps you use and related usage data.  This advertising helps keeps the cost of online services low or free.  Certain analytics companies that we use may also automatically collect data to help us understand how the online service is being used, such as the frequency and duration of usage.   We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you.
+ 
+4. OPT-OUTS 
+In addition to the options provided by your mobile operating systems, you may opt out of the collection of information on Mobile Apps as follows:
+ 
+
+Uninstalling the Mobile App – you can stop all collection of information by the Mobile App easily by uninstalling the Mobile App. You may use the standard uninstall processes as may be available as part of your mobile device or via the Mobile App marketplace or network;
+Opt out of interest-based advertising – see the instructions below or contact  privacy@nbcuni.com for information about how to opt out from the use of information to serve targeted advertising by advertisers and/or third party network advertisers. Note that the effect of opting out of targeted advertising will be to prevent targeted advertising, but will not prevent you from seeing all advertisements.  Information may still be collected and used  for other purposes (such as research, online services analytics or internal operations, and to enforce your opt-out preferences):
+
+ 
+
+For Apple Users:
+
+iOS 7 or higher, you can change your settings in the following location: Settings > Privacy > Advertising
+iOS 6, you can change your settings in the following location: Settings > General > About > Advertising
+iOS 4 or 5, you can opt out following the instructions here
+
+
+
+ 
+For further information please see Apple’s website here.
+ 
+
+For other major mobile platforms:
+
+
+Open the platform account settings
+Select Ads
+
+
+Opt out of location data go to “settings” on your mobile device to opt out of the collection of location data, or contact privacy@nbcuni.com for information about how to opt out from allowing us to have further access to your location data. Please include as much detail as possible when you make a request.
+Opt out of Cross-App Data Collection - the Digital Advertising Alliance (“DAA”) offers a separate choice tool for the collection of cross-app data on a mobile device for interest-based advertising and other applicable uses. To exercise choice for companies participating in this choice tool, you can install the DAA’s AppChoices app (see http://www.aboutads.info/appchoices).
+Opt out of Video Measurement Services - to opt out of video measurement services provided by Nielsen on Mobile Apps  please click here
+
+5. ACCESS  
+Where required by applicable law we provide online visitors with access to personal information they provide through online services and the ability to review, update and correct it as and when necessary. Such requests may be subject to a small fee. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information.
+6. CONTACT US 
+ 
+For any queries in relation to this Mobile Apps Policy please contact us at privacy@nbcuni.com or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
+ 

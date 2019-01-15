@@ -1,0 +1,272 @@
+
+Tencent Privacy Policy
+Introduction
+
+Tencent takes users' information safety and privacy as our lifeline. Based on our basic principle "Users' needs are our first priority", we are committed to enhancing the transparency of information process, honoring your control of data and safeguarding your information and communication security.
+Tencent adheres to the following privacy protection principles and is committed to providing you with more secure and reliable service:
+
+1. Security Safeguard and Reliance. We try our best to prevent your information from breach, damage or loss via effective and reasonable information security technology and administrative process;
+2. Choice. We provide you convenient privacy management options so that you may make proper choices to control or manage your privacy;
+3. Protection of Communication Secret. We will strictly protect your communication secrets in compliance with the applicable laws and regulations;
+4. Reasonableness and Necessity. We will collect necessary data so that we can provide you and other users with better service in order to achieve products' functions.
+5. Transparency. We endeavor to introduce our privacy policy in an easy and straightforward way and help you better understand our information process practice;
+6. Privacy by Design. We will follow the idea of "privacy by design" and consider privacy in all stages of product or service development, including multiple factors such as the laws, products and designs.
+
+This Privacy Policy mainly explains:
+
+What information we collect.
+How we use that information.
+Your Rights.
+
+We hope that you will read this Privacy Policy (this "Privacy Policy") to understand how we collect and use information in order for you to further understand our services and to make appropriate selections.
+By using Tencent service, you agree to the contents contained in this policy. Unless otherwise defined herein, the terms used in this privacy policy shall have the same meanings as those defined in the Tencent Service Agreement.
+Should you have any queries, please contact us.
+
+Information We Collect
+
+Based on the principle of lawfulness, fairness and necessity, we will only collect the following information that is necessary for the purpose of achieving the product's function.
+
+
+1.1
+Information you provide to us
+
+
+1.1.1 Information you provide to us when registering an account.
+For example, the nickname and phone number provided by you when registering a QQ or WeChat account.
+
+
+1.1.2 Information you upload whilst using our services.
+For example, your uploaded profile picture and pictures shared whilst using QQ or WeChat.
+
+
+1.1.3 Information provided by you via our customer service or whilst participating in our activities.
+For example, the questionnaire you completed when participating in our online activities may include your name, contact number, home address or other related information.
+
+
+
+Some of our service may need you to provide your selected sensitive personal information to achieve specific functions. If you choose not to provide such information, you may not be able to use specific functions in the service, but it will not affect the usage of other functions. If you provide your sensitive information for us voluntarily, you agree that we process your Personal Sensitive Information in accordance with the purposes and methods provided in this policy.
+
+1.2
+Information we may collect when you use our services
+
+
+1.2.1 Server Logs. We may automatically collect and store relevant information as the service log when you use our services.
+
+1) Device Information. For example, device model, operating system version, unique device identifier ("UDID"), battery, signal strength, and other information.
+2) Software Information. For example, software version and browser type. To ensure the security of the operating environment or to provide the necessary services, we will collect information in relation to your usage of mobile applications and other softwares.
+3) IP Address.
+4) Service Logs. For example, information collected when you use our services to search or view, crash logs information, recommended sites and other information.
+5) Communication Logs. For example, the accounts you communicated with, the time and period when you use our communication services.
+
+
+
+1.2.2 Location data. We may collect location data of your device when you use the location-related services, in order to provide relevant service for you.
+
+1) We may collect your geographic location data via IP address, GPS, Wi-Fi, or base station when you use the services;
+2) Geographic location data provided by you or by other users when using the services. For example, the location data detailed in your account, or geographical indications contained in photos shared by you or other users;
+
+
+
+1.2.3 Other relevant information. For you to better use our product or service, we will collect relevant information, for example, the friends list, group list information, and voice print. Also, if you choose to turn on "import contacts" feature we will encrypt name and phone number of your contacts and collect encrypted information in order to connect you with people you know who also use our service.
+
+
+
+
+1.3
+Your information contained in the information shared by other users.
+For example, photos or videos published by other users may contain your information.
+
+
+1.4
+Information from third-party partners.
+We may have cooperation with third-party partners. Therefore, we may obtain the information that is shared or generated when you use a third-party service. For example, when you log in a third-party service with your WeChat or QQ account, we will know the name of such service and your log-in time so that it will be convenient for you to manage the authorization. Please read the third-party service user agreement or privacy policy carefully.
+
+
+
+How We Use the Information We Collect
+
+Subject to applicable laws and regulations or agreements with users, we may use the collected information in the following ways.  If we use your information for purposes beyond the following purposes, we will explain to you again and ask for consent.
+
+2.1To provide you with our services.
+2.2To meet your personal needs. For example, language settings, location settings and other personalized services.
+2.3Product development and optimization. For example, when our systems have malfunctions, we will record and analyze the information generated when the system crashes, so as to further optimize our services.
+2.4To ensure security. For example, we will use your information for identity authentication, safety precautions, anti-fraud monitoring, storage and backup, customer safety service and other applications. For example, the safety software downloaded or installed by you will detect malicious programs or viruses, or identify fraudulent information.
+2.5To recommend ads, news etc. that you may be interested in to you.
+2.6To evaluate and improve the effect of ads and other promotions in our services.
+2.7To manage software. For example, software certification and software updates, etc.
+2.8To include your participation in survey activities about our product and services.
+
+Subject to applicable laws and regulations, in order to provide you with a better user experience and to improve our services, or upon your consent, we may apply the information collected from certain services to other services provided by us. For instance, we may use your information collected or generated when you use our certain services to show you personalized content or advertisement and for user analysis and statistic service.
+To ensure the security of our services, and to help us further understand the state of performance of our applications, we may record relevant information, for example, the frequency of your usage, crash logs information, overall usage, performance data and source of application. We do not link the information we store within the mobile analytics software to personally identifiable information you submit within the mobile application.
+
+How We Use Cookies and Relevant Technologies
+
+We and our third party partners may collect your information via safely inserted Cookie and relevant technologies, for the purposes for providing you with more personalized user experience and service. We will strictly require such third party partners to observe relevant requirements of this policy.
+You may set or mange Cookie via your browser settings. But please be noted that you may not enjoy the best service experience and certain service may not be used if you stop using Cookie. If you hope to learn more information about the security of Cookie, you may refer to the Cookie Policy Statement.
+
+Information You Share
+
+Our services may allow you to share your relevant information with your friends and family and other users. For example, you can share texts and pictures publicly in your "WeChat Moments". Please be noted that such information may contain sensitive information including your personal identity information and personal property information. Please prudently consider disclosure of your relevant personal sensitive information.
+You may control the scope of information shared by you and you may also delete the information publicly shared using the service setting or according to our guidance. Please note such information may still have been retained independently by other users or unrelated third parties which we are not able to control.
+
+How to Manage Your Own Information
+
+
+
+5.1
+You may access, amend and delete information provided by you during the registration of your account or other personal information when using our services, or contact us via the notice guidelines. The scope and the way in which you access, amend or delete your personal information depend on the service you use. For example, when using geographical related service, to stop sharing your geographical information, you can stop it by turning off cellphone positioning function, or according to methods provided by software and hardware service providers and communication service providers. Please read relevant guidance carefully.
+
+
+5.2
+We will collect and use your information only for achieving the functions of our products or services in accordance with this policy. If you find that our collection or use of your personal information is not in accordance with the laws, administrative regulations or the agreement of both parties, you can require us to delete such information. If you find that we have collected or stored your wrong personal information, you can also require us to correct it. Please contact us via the contact details listed in this Privacy Policy.
+
+
+5.3
+For account security purposes, we may ask you to verify your identity before we allow you to access, amend and delete relevant information.
+
+
+5.4
+Please understand that due to technical limitations, legal or regulatory requirements, we may not be able to meet all your requests. We endeavor to respond to your requests within a reasonable period of time.
+
+
+
+Information We Share
+
+We will strictly limit the sharing of information in accordance with the laws and regulations, for example:
+
+
+6.1
+We may share your personal information with a third party other than our data processors with your prior consent;
+
+
+6.2
+For the purpose of external processing, we may share your personal information with third-party business partners (third-party service providers, contractors, agents, advertising partners, application developers etc., for example, the telecommunication service providers who send out emails and push notifications on our behalf, or the map service providers who provide us with location service) (they may not be located in your jurisdiction), and require them to follow our instructions, the Privacy Policy and any other relevant confidentiality and security measures to process the above information for us and for the purposes of:
+
+6.2.1 Providing you with our services;
+6.2.2 Implementing the purpose of the section "How We Use the Information We Collect";
+6.2.3 Performing our obligations and excising our rights as provided in the Tencent Service Agreement and this Privacy Policy;
+6.2.4 Understanding, maintaining and improving our services.
+
+Should we share your personal information with third parties mentioned above, we will use encryption, anonymization or other means to protect your information security.
+
+
+6.3
+With the development of our business, when mergers, acquisitions, asset transfer or other transactions happens, we will inform you of such circumstances by pushing notifications or notices, and continue to protect or require new controllers to continue to protect your personal information in accordance with the applicable laws and regulations and the standard of protection which will not be lower than that under this Privacy Policy.
+
+
+6.4
+We may use the collected information for big data analysis. For example, We may use collected information for analysis to generate urban heat map or industry insight report which contains no personal identifiable information. We may make it public and share it with our partners the post-processed information that does not contain personal identifiable information, to understand how users utilize our services or to enable the public to better understand the overall use of our services and other purposes.
+
+
+6.5
+We may disclose your personal information due to the following purposes:
+
+6.5.1 To comply with the applicabl laws and regulations;
+6.5.2 To comply with court decisions, rulings or requirements of other legal procedures;
+6.5.3 To comply with the requirements of relevant government agencies or other relevant legally authoritative entities;
+6.5.4 We have reasons to believe that we need to comply with applicable laws and regulations;
+6.5.5 Reasonable and necessary purposes to implement relevant service agreements or this Privacy Policy, or to protect public interest, personal safety and property and other legitimate rights of our clients, ourselves, our affiliates, our users or employees.
+
+
+
+
+Information We May Send to You
+
+
+
+7.1
+Push notifications
+When you use our services, we may send emails, text messages, news or push notifications to you. You may follow the relevant notice to unsubscribe on the device.
+
+
+7.2
+Service announcements
+We may send you announcements related to service if necessary (for example, the suspension of certain service due to system maintenance). You may not be able to cancel these non-promotional service-related announcements.
+
+
+
+Place and Period of Information Retention
+
+
+
+8.1
+Where we store information
+We will store users personal information collected within mainland China within the territory in accordance with applicable laws and regulations.
+
+
+8.2
+Period of information retention
+In general, we will retain your personal information in the shortest possible time to fulfill the purpose of collection of such information. However, for the following purposes, we may change the retention period for the purposes of compliance:
+
+8.2.1 To comply with the relevant laws and regulations;
+8.2.2 To comply with court decisions, rulings or requirements of other legal procedures;
+8.2.3 To comply with the requirements of relevant government agencies or other legally authoritative entities;
+8.2.4 We have reasons to believe that we need to comply with applicable laws and regulations;
+
+8.2.5 Reasonable and necessary purposes to implement relevant service agreements or this Privacy Policy, or to protect public interest and to protect personal safety and property and other legitimate rights and interests of our clients, ourselves, our affiliates, our users or employees.
+
+
+Should the operation of our products or service terminate, we will inform you in the form of push notifications, announcements, etc., and delete or anonymize your personal information within a reasonable period of time.
+
+
+
+Information Security
+
+We take security measures to protect your information against loss, improper use, unauthorized access or disclosure.
+
+
+9.1
+We will strictly protect users communication in accordance with the applicable laws and regulations.
+
+
+9.2
+We will work within the reasonable security standards and use a variety of security measures to protect the security of information. For example, we will use encryption technologies (such as TLS, SSL), anonymization and other means to protect your personal information.
+
+
+9.3
+We have established a specialized management, process and organization system to ensure information security. For example, we strictly restrict the scope of personnel who can access information, and require them to comply with their confidentiality obligations and conduct audits.
+
+
+9.4
+In the event of a breach of security incident of personal information, we will activate emergency response plan to prevent the expansion of such security incident and inform you in the form of push notifications, public announcements and etc.
+
+
+
+Advertisements
+
+We may use your information to provide you with more relevant advertisements on relevant sites, apps, and other channels.
+
+You can learn more at About Our Advertising.
+
+Protection of Minors
+
+We attach great importance to the protection of personal information of minors. In accordance with the relevant laws and regulations, if you are a minor under 18 years old, you would be required to obtain you parents' or legal guardian's consent prior to using Tencent service. If you are the guardian of a minor and have queries in relation to your minors' personal information, please contact us through the contact details provided in Section 13 below.
+
+Application Scope
+
+All of our services are subject to this Privacy Policy. However, some services have their own specific privacy guidance/statement, such specific privacy guidance/statement describe how we process your information in the service more specifically. If this Privacy Policy is inconsistent with the privacy guidance/statement of a particular service, the privacy policy of that particular service shall prevail.
+Please note this Privacy Policy is not applicable to services provided by other companies or individuals. For example, you may log in services provided by other companies or individuals with WeChat account.
+Your use of such third-party services is subject to the terms and privacy policy of such third-party services (rather than this Privacy Policy), and you need to read their privacy practice carefully.
+
+Contact Us
+
+Should you have any enquiries in relation to this Privacy Policy or other related matters, please contact us via https://kf.qq.com. In accordance with the provided guidelines, you may also complete the relevant details and send your queries to Dataprivacy@tencent.com, or post it to the following mailing address:
+Address: Tencent Legal Department- Data & Privacy Centre, Tencent Building, Science and Technology Park Road, Nanshan District, Shenzhen, Guangdong Province, China.
+Postcode: 518057
+We will review your queries and reply within 30 days after verifying your user identity.
+
+Changes to Privacy Policy
+
+We may update and revise this Privacy Policy from time to time, and if such changes result in a substantial impairment of your rights under this Privacy policy, we will notify you by sending you an e-mail and by reminding you at prominent place on the webpage before the changes take effect. Under such circumstances, if you continue to use our services, you will be deemed to have agreed to be bound by the updated policy.
+Last updated: 2018/06/13
+
+
+
+中|En
+
+
+
+
+
+
+
