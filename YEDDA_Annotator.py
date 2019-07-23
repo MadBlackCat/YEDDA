@@ -31,14 +31,17 @@ class Example(Frame):
         self.recommendFlag = False
         self.history = deque(maxlen=20)
         self.currentContent = deque(maxlen=1)
-        self.pressCommand = {'a':"Artifical",
-                             'b':"Event",
-                             'c':"Fin-Concept",
-                             'd':"Location",
-                             'e':"Organization",
-                             'f':"Person",
-                             'g':"Sector",
-                             'h':"Other"
+        self.pressCommand = {'a':"First Party Collection and Use",
+                             'b':"Third Party Sharing and Collection",
+                             'c':"User Choice/Control",
+                             'd':"Introductory/Generic",
+                             'e':"Data Security",
+                             'f':"Internal and Specific Audiences",
+                             'g':"Privacy Contact Information",
+                             'h':"User Access, Edit, and Deletion",
+                             'i':"Policy Change",
+                             'j':"Data Retention",
+                             'k':"Do Not Track"
                              }
         self.allKey = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
         self.controlCommand = {'ctrl+q':"unTag", 'ctrl+z':'undo'}

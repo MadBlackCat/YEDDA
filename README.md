@@ -29,14 +29,26 @@ It provides both annotator interface for efficient annotatation and admin interf
 Use as an annotator ?
 ====
 * Start the interface: run `python YEDDA_Annotator.py`
+* 运行`python YEDDA_Annotator.py`开始界面
 * Select a shortcut map from `./configs/` in the right bottom drop-down list
+* 右下角选择标签的config文件(我已经改好没必要修改)
 * Configure your shortcut map in the right side of annotation interface, you can leave other labels empty if the shortcut number is enough. For example: `a: Action; b: Loc; c: Cont`
+* 配置标签 （我已经改好了）
 * Click the `ReMap` button to overwrite and store the map setting, or click the `NewMap` button to store the map setting in a new file under `./configs/`
+* 可以修改标签，不要乱改，不要按ReMap，标注用不到
 * Click `Open` button and select your input file. (You may set your file name ended with .txt or .ann if possible)
+* 打开txt文件，我们需要标注的文件在document文件夹里
+* 打开open选择文件
+
 
 This tool supports two ways of annotation (annotated text format `[@the text span＃Location*]`):
 * Shortcut Key Annotation: select the text and press the corresponding shortcut (i.e. `c` for label `Cont`).
 * Command Line Annotation: type the code at command entry (at the bottom of the annotation interface). For example, type `2c3b1a` end with `<Enter>`, it will annotate the following `2` character as type `c: Cont`, the following `3` character as type `b: Loc`, then the following `1` character as  `a: Action`.
+
+<b>** 打开文件后按RMOff，选中需要标注的句子，按对应的快捷键就行（abcdefghijk），记的切换成英文输入法。文件同步保存。标注好之后 按`Export`导出 **</b>
+
+
+
 
 Intelligent recommendation:
 * Intelligent recommendation is enabled or disabled by the button `RMOn` and `RMOff`, respectively.
@@ -57,7 +69,8 @@ YEDDA provides a simple interface for administartor to evaluate and analyze anno
 ![alt text](detailReport.png "Detail Report")
 
 
-Important features:
+
+Important features:比较难用
 =====
 1. Type `ctrl + z` will undo  the most recent modification
 2. Put cursor within an entity span, press shortcut key (e.g. `x`) to update label (binded with `x`) of the entity where cursor is belonging. (`q` for remove the label)
@@ -68,7 +81,28 @@ Important features:
 7. The "Cursor" shows the current cursor position in text widget, with `row` and `col` represent the row and column number, respectively.
 8. `Export` button will export the ***".ann"*** file as a identity name with ***".anns"*** in the same directory. The exported file list the content in sequence format. In the source code, there is a flag `self.seged` which controls the exported bahaviour. If your sentences are consist of words seperated with space (such as segmentated Chinese and English), then you may set it `True`, otherwise set it as `False` (for sentences which are consist of characters without space, such as unsegmentated Chinese text). Besides, another flag `self.tagScheme` controls the exporting format, the exported ***".anns"*** will use the `BMES` format if this flag is set to `"BMES"`, otherwise the exported file is formatted as `"BIO".`
 
+1. 普通的撤回，只能撤回一次。
+2. 选中后按q，移除标签
+3. 选中之后直接按快捷键可以修改标签
 
+标签解释：
+====
+第一方指的是，这篇隐私政策的公司。第三方，指的是和第一方公司合作或是广告，会分享数据，比如分享给facebook等等。
+* First Party Collection/Use: 第一方收集使用数据，（即这家公司会收集的数据，一般是我们会收集你的xxx，使用你的XXX）
+* Third Party Sharing/Collection: 第三方数据收集，或是数据分享给第三方。一般有share等关键词，还有广告也算在内。
+* User Choice/Control: 用户选择控制的选项，一般会有链接，或是用户按钮，或是opt-in， opt-out之类的关键词
+* User Access, Edit, & Deletion: 是否用户可以访问修改删除数据，用户怎样访问修改删除数据。
+* Data Retention: 用户的数据会被公司保留多长时间。一般都有retention，save之类关键词，后面一半会有时间段，或是我们会保留您的数据直到***时候为止。
+* Data Security: 用户的隐私政策是怎么保护的
+* Policy Change: 隐私政策的修改， 比如这篇隐私政策和上一个版本相比更新了。。。 上次更新时间
+* Do Not Track: 是否有Do Not Track标志，或是否有不允许追踪信息数据相关说明
+* International & Specific Audiences: 特殊群体相关。小孩子，残疾人，某个地区或者国家的人
+* Introductory/Generic: 普通的介绍隐私政策。开始一般都会有一大段。
+* Privacy Contact Information: 隐私政策 公司联系方式，邮编地址之类的， 一般出现在结尾
+
+下面是label 相应参考关键词(有些词不太准，帮助理解)
+====
+![keywords](keywords.png "label and keywords")
 Cite: 
 ========
 If you use YEDDA for research, please cite our [ACL paper](https://arxiv.org/pdf/1711.03759.pdf) as follows:
