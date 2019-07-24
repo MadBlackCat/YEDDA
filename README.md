@@ -103,6 +103,69 @@ Important features:比较难用
 下面是label 相应参考关键词(有些词不太准，帮助理解)
 ====
 ![keywords](keywords.png "label and keywords")
+
+label与例子
+====
+
+##### First Party Collection/Use:
+* collects information from our users at several different points on our Web site.
+* We request information from the user on our order form.
+* we use clear gifs in our HTML-based emails
+* our site requests information from users
+
+##### Third Party Sharing/Collection:
+* If you do not want to share your PIN, do not provide it.
+* third parties such as advertisers and business partners
+* share user information with
+* The ads appearing on MediaNews Web sites are delivered to you by Yahoo! and DoubleClick, our third party web advertising company's.
+
+##### User Choice/Control:
+* our order form has an 'opt-out' mechanism
+* Please see the Choice and Opt-out sections
+* option to not receive these types of communications
+* may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email.
+
+##### User Access, Edit, & Deletion:
+* You may also access, correct or change the personal information in your community profile(s) on SparkNotes.com at any time, except to change your username. To review or modify your profile information, log in to SparkNotes.com.
+* right to request a copy of the personal information that we hold about
+
+##### Data Retention:
+* (data that is generated on our web server and stored on your computer) are deleted when the browser window is closed.
+* Log files are typically deleted from our servers after 90 days.
+* MediaNews will retain this information only to provide the forwarding services.
+##### Data Security:
+* SECURITY MediaNews uses procedures to safeguard and help prevent unauthorized access to the information collected on the MediaNews Web sites. Although such protective measures have been put in place, MediaNews cannot ensure that the information collected will never be disclosed in a manner inconsistent with this Privacy Policy.
+* Sometimes, MediaNews uses agents or contractors to provide services that support the internal operations of the site, such as helping us conduct a sweepstakes or sending prizes to winners. In these cases, MediaNews requires the agent or contractor to maintain the confidentiality, security and integrity of the information and limit use to the specific services they are performing on our behalf.
+* will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
+
+##### Policy Change
+* If we decide to change our privacy policy
+* MediaNews may change this privacy policy from time to time. The revised policy will be posted on the MediaNews Web site. Please check this page periodically for changes.
+* This Policy was last changed on October 24, 2014
+
+##### Do Not track
+* Effect of Tracking Requests. Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.
+* Tracking Requests. Hearst does not act on Do Not Track requests from your browser. For more information click here
+* the Services currently do not take action in response to these signals.
+
+##### International & Specific Audiences:
+* Barnes & Noble complies with the U.S. - E.U. Safe Harbor framework
+* California Civil Code Section 1798.83 permits California residents to request a notice from us describing which categories of personal information we have shared with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes within the last calendar year, and the name and address of such parties. If you are a California resident and would like a copy of this notice, please send an email to privacy@barnesandnoble.com with \"California Privacy Rights Request\" in the subject line.
+* 
+
+##### Introductory/Generic
+* This privacy statement covers the site new.www.redorbit.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. What personally identifiable information RedOrbit, Inc. collects. What personally identifiable information third parties collect through the Web site. What organization collects the information. How RedOrbit, Inc. uses the information. With whom RedOrbit, Inc. may share user information. What choices are available to users regarding collection, use and distribution of the information. What types of security procedures are in place to protect the loss, misuse or alteration of information under RedOrbit, Inc. control. How users can correct any inaccuracies in the information.
+
+* This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. (""Freedom"" ""we"" or ""our""), including, without limitation the Web sites listed here (collectively, the ""Site""). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the User Agreement posted on the Site.
+* These sites and apps are not intended for children. Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us here. You can also write to us at the address listed at the end of this policy. Please mark your inquiries \"COPPA Information Request.\
+
+##### Privacy Contact Information: 
+* If users have any questions or suggestions regarding our privacy policy, please contact us at: Web site URL : new.www.redorbit.com
+* If you have questions about this policy, please email us at feedback@crp.org.
+* Please send an email or letter to our Privacy Coordinator at the email or mailing address provided below if you would like to do any of the following:
+* privacycoordinator@medianewsgroup.com or write to us at: Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202.
+
+
 Cite: 
 ========
 If you use YEDDA for research, please cite our [ACL paper](https://arxiv.org/pdf/1711.03759.pdf) as follows:
