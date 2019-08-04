@@ -1,0 +1,48 @@
+%%%%%%%%%%%%%%%%%%%%%%% file typeinst.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[runningheads,a4paper]{llncs}
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{subfigure}
+\usepackage{amsmath}
+\usepackage{CJK}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{url}
+\begin{document}
+\begin{CJK*}{UTF8}{gbsn}
+\mainmatter  % start of an individual contribution
+\title{Annotation Comparison Report}
+\author{SUTDNLP Group}
+\institute{Singapore University of Technology and Design}
+\maketitle
+
+\section{Overall Statistics}
+File1 color: \colorbox{blue!30}{Blue}; Dir: \colorbox{blue!30}{F:/Documents/Project/Label/YEDDA/demotext/EnglishDemo1.txt.ann}\\
+File2 color: \colorbox{red!30}{Red}; Dir: \colorbox{red!30}{F:/Documents/Project/Label/YEDDA/demotext/EnglishDemo.txt.ann}\\
+\begin{table}[!htbp]
+\centering
+\caption{Statistics for two annotations, assume File1 as gold standard}
+\begin{tabular}{l|l|l}
+\hline
+P/R/F (\%)& Entity &Boundary\\
+\hline
+Pro-完成erterterter时间& Nan/0.0/Nan &--\\
+Pro-投资ererterte方& Nan/0.0/Nan &--\\
+Q-变化erter趋势幅度& Nan/0.0/Nan &--\\
+ert& Nan/0.0/Nan &--\\
+ertert& Nan/0.0/Nan &--\\
+\hline
+Overall& 0.0/0.0/Nan &0.0/0.0/Nan\\
+\hline
+\end{tabular}
+\end{table}
+\section{Detail Content Comparison}
+\colorbox{blue!30}{Blue}: only annotated in File1.\\
+\colorbox{red!30}{Red}: only annotated in File2.\\
+\colorbox{green!30}{Green}: annotated in both files.\\
+\rule{5cm}{0.1em}\\
+\vspace{0.3cm}\\
+\colorbox{blue!30}{A US aircraft carrier }and other warships did not sail towards \colorbox{blue!30}{North Korea} - but went in t\colorbox{blue!30}{he opposite direction}, it has emerged.\\
+\colorbox{blue!30}{The US Navy} said on 8 April that the Carl Vinson strike group was travelling to the Korean peninsula amid tensions over Pyongyang's nuclear ambitions.\\

@@ -31,7 +31,7 @@ class Example(Frame):
         self.recommendFlag = False
         self.history = deque(maxlen=20)
         self.currentContent = deque(maxlen=1)
-        self.pressCommand = {'a':"First Party Collection and Use",
+        self.pressCommand = {'a':"First Party Collection",
                              'b':"Third Party Sharing and Collection",
                              'c':"User Choice/Control",
                              'd':"Introductory/Generic",
@@ -41,7 +41,9 @@ class Example(Frame):
                              'h':"User Access, Edit, and Deletion",
                              'i':"Policy Change",
                              'j':"Data Retention",
-                             'k':"Do Not Track"
+                             'k':"Do Not Track",
+                             'l':"First Party Use",
+                             'm':"Data Transfer"
                              }
         self.allKey = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
         self.controlCommand = {'ctrl+q':"unTag", 'ctrl+z':'undo'}
@@ -951,8 +953,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-

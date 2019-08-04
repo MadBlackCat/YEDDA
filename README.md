@@ -88,17 +88,19 @@ Important features:比较难用
 标签解释：
 ====
 第一方指的是，这篇隐私政策的公司。第三方，指的是和第一方公司合作或是广告，会分享数据，比如分享给facebook等等。
-* First Party Collection/Use: 第一方收集使用数据，（即这家公司会收集的数据，一般是我们会收集你的xxx，使用你的XXX）
+* First Party Collection: 第一方收集使用数据，（即这家公司会收集的数据，一般是我们会收集你的xxx，使用你的XXX）
+* First Party Use: 第一方公司如何使用你的数据，收集数据的目的。
 * Third Party Sharing/Collection: 第三方数据收集，或是数据分享给第三方。一般有share等关键词，还有广告也算在内。
-* User Choice/Control: 用户选择控制的选项，一般会有链接，或是用户按钮，或是opt-in， opt-out之类的关键词
-* User Access, Edit, & Deletion: 是否用户可以访问修改删除数据，用户怎样访问修改删除数据。
+* User Choice/Control: 用户选择控制的选项，用户按钮，或是opt-in， opt-out之类的关键词，用户是如何掌控和管理数据的，关闭cookies， 管理账号。
+* User Right: 是否用户可以访问修改删除数据，用户怎样访问修改删除数据。用户拒绝权，反对权，限制处理权等等。
 * Data Retention: 用户的数据会被公司保留多长时间。一般都有retention，save之类关键词，后面一半会有时间段，或是我们会保留您的数据直到***时候为止。
-* Data Security: 用户的隐私政策是怎么保护的
+* Data Security: 用户的隐私政策是怎么保护的，采用什么技术去保护用户隐私。
 * Policy Change: 隐私政策的修改， 比如这篇隐私政策和上一个版本相比更新了。。。 上次更新时间
 * Do Not Track: 是否有Do Not Track标志，或是否有不允许追踪信息数据相关说明
-* International & Specific Audiences: 特殊群体相关。小孩子，残疾人，某个地区或者国家的人
-* Introductory/Generic: 普通的介绍隐私政策。开始一般都会有一大段。
-* Privacy Contact Information: 隐私政策 公司联系方式，邮编地址之类的， 一般出现在结尾
+* International & Specific Audiences: 特殊群体相关。小孩子，残疾人，某个地区或者国家的人，加利福尼亚和欧洲。针对特定的人是如何收集使用存储转移数据
+* Introductory/Generic: 普通的介绍隐私政策。解释专有名词，什么是cookies，什么是personal information 什么是third party service，third party 免责说明。
+* Privacy Contact Information: 隐私政策 公司联系方式，邮编地址之类的，feedback，有问题如何联系
+* Data Transfer 数据转移，转移给第三方，转移给其他国家。
 
 下面是label 相应参考关键词(有些词不太准，帮助理解)
 ====
