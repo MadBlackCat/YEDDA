@@ -38,7 +38,7 @@ class Example(Frame):
                              'e':"Data Security",
                              'f':"Internal and Specific Audiences",
                              'g':"Privacy Contact Information",
-                             'h':"User Access, Edit, and Deletion",
+                             'h':"User Right",
                              'i':"Policy Change",
                              'j':"Data Retention",
                              'k':"Do Not Track",
