@@ -41,9 +41,11 @@ class Example(Frame):
                              'h':"User Right",
                              'i':"Policy Change",
                              'j':"Data Retention",
-                             'k':"Do Not Track",
+                             'k':"Cookies and Similar Technologies",
                              'l':"First Party Use",
-                             'm':"Data Transfer"
+                             'm':"Data Transfer",
+                             'n':"Links",
+                             'o':"Legal Basis"
                              }
         self.allKey = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
         self.controlCommand = {'ctrl+q':"unTag", 'ctrl+z':'undo'}
