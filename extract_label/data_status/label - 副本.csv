@@ -1,0 +1,17 @@
+Label,Label Size,Avg. Sents,Std. Sents,Min. Sents,Max. Sents,Avg. Words
+Cookies and Similar Technologies,362,2.59,1.8,,15,64.4
+Data Retention,172,1.94,1.11,1,6,59.38
+Data Security,285,2.48,1.57,1,11,61.84
+Data Transfer,143,2.25,1.18,1,7,67.99
+First Party Collection,1341,2.02,1.51,1,15,54.06
+First Party Use,1107,1.73,1.45,1,18,46.09
+Internal and Specific Audiences,229,2.6,1.31,1,7,71.35
+Introductory/Generic,462,2.18,1.27,1,7,62.38
+Legal Basis,177,1.63,1.07,1,7,51.38
+Links,122,2.7,1.69,1,7,61.63
+Other,5061,1.32,0.9,1,28,14.12
+Policy Change,218,2.47,1.43,1,7,52.09
+Privacy Contact Information,281,1.35,0.81,1,7,25.81
+Third Party Sharing and Collection,1082,2.04,1.49,1,12,61.01
+User Control,215,2.17,1.49,1,11,54.3
+User Right,673,1.92,1.24,1,10,49.26
