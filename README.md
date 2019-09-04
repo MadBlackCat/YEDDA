@@ -70,7 +70,7 @@ YEDDA provides a simple interface for administartor to evaluate and analyze anno
 
 
 
-Important features:比较难用
+Important features:
 =====
 1. Type `ctrl + z` will undo  the most recent modification
 2. Put cursor within an entity span, press shortcut key (e.g. `x`) to update label (binded with `x`) of the entity where cursor is belonging. (`q` for remove the label)
